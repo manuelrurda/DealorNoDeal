@@ -71,9 +71,6 @@ As this project runs entirely on the command line, the only control is the keybo
 
 7. Finally, you can press `4`to exit the program. And don't worry, your stats will be saved.
 
-## Contributing
-Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change.
-
 #
 Manuel Rodriguez Urdapilleta
 <p>29/01/2021</p>

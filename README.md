@@ -1,6 +1,6 @@
 # Deal or No Deal
 
-Final project for my programming fundamentals course.
+Final project for my programming foundations course.
 #
 
 ## How was this built?

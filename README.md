@@ -74,4 +74,7 @@ As this project runs entirely on the command line, the only control is the keybo
 #
 Manuel Rodriguez Urdapilleta
 <p>29/01/2021</p>
+![Slide2](https://github.com/manuelrurda/DealorNoDeal/assets/62727899/0effb98e-1044-4979-b2e4-0767a829f0b9)
+
+
 

@@ -1,0 +1,9 @@
+{
+  "name":"DealorNoDeal",
+  "githubUrl":"https://github.com/manuelrurda/DealorNoDeal",
+  "description": "The classic game of Deal or no Deal for the command line developed in standard C.",
+  "thumbnailUrl": "https://github.com/manuelrurda/DealorNoDeal/assets/62727899/0effb98e-1044-4979-b2e4-0767a829f0b9",
+  "techTags": [
+    "C"
+  ]
+}
